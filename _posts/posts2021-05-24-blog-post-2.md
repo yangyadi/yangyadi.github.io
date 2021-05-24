@@ -1,11 +1,14 @@
 ---
-title: '浅谈话题模型：LSA、PLSA、LDA'
+title: '学习笔记｜浅谈话题模型：LSA、PLSA、LDA'
 date: 2021-05-24
 permalink: /posts/2021/05/blog05242021/
 tags:
   - 2021
   - 学术
 ---
+
+作者：章放
+来源：https://www.jiqizhixin.com/articles/2019-06-12-8
 
 虽然现在深度学习几乎一统天下，但回顾一下经典还是很有意思的。
 LSA已经成为经典的经典，UCB的Thomas Hofmann（现在已经到了Google）提出的PLSA，普林斯顿的David Blei提出的LDA，其实在很多应用中还很有效的。
