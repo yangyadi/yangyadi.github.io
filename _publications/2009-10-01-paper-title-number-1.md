@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Design of Resonant Orbit in Synchronized Binary Asteroid System"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2019-paper-1
+excerpt: 'This paper studies the design method and evolution of the resonant orbits in the synchronized binary asteroid system. The design method of the resonant orbit is applicable to different binary asteroid systems and can be taken as a reference for orbit design in future binary asteroid explorations.'
 date: 2009-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://www.yhxb.org.cn/CN/abstract/abstract5564.shtml'
+citation: 'Yadi Yang, Qi Chen, Xiangyu Li, Dong Qiao (2019). &quot;Design of Resonant Orbit in Synchronized Binary Asteroid System.&quot; <i>Journal of Astronautics</i>. 40(9), 987.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper studies the design method and evolution of the resonant orbits in the synchronized binary asteroid system. Firstly, based on the double ellipsoid model, the equation of motion in the binary asteroid system is established and the estimation of the initial value of the resonant orbits is given. Then, by using the improved parallel shooting method, a twostep correction strategy is proposed to design the planar resonant orbits in the binary asteroid system. Based on the stability theory and bifurcation theory, the threedimensional resonant orbit families are obtained. Finally, based on the method above, taken the binary asteroid system 1999KW4 as an example, the planar and three dimensional resonant orbit families with the resonant ratios of 1∶1, 1∶2, 1∶3, 1∶4, 2∶3 are designed. The characteristics of the resonant orbits and evolution of the orbital periods and orbital energy are analyzed and summarized. The design method of the resonant orbit is applicable to different binary asteroid systems and can be taken as a reference for orbit design in future binary asteroid explorations.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://www.yhxb.org.cn/CN/abstract/abstract5564.shtml)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Yadi Yang, Qi Chen, Xiangyu Li, Dong Qiao (2019). &quot;Design of Resonant Orbit in Synchronized Binary Asteroid System.&quot; <i>Journal of Astronautics</i>. 40(9), 987.
