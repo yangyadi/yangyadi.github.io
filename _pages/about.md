@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Yadi Yang and I am currently doing my PhD in Department of Business and Economics at Erasmus University Rotterdam in the Netherlands. 
+Hi, I am Yadi Yang and I am currently doing my PhD in Department of Business Economics at Erasmus University Rotterdam in the Netherlands. 
 
-Before my PhD starts, I was an aerospace engineer and I did some trivial researches on deep space exploration. To put it more specifically, I studied orbit determination for Near-Earth-Orbit (NEO) satellites, navigation and control of spacecrafts, orbit dynamics in the vicinity of asteroids (specially binary asteroids). My master graduation project is about the Design and Control of Resonant Trajectory in Binary Asteroid System. Sound quite far away from earth, right?
+Before my PhD starts, I studied aerospace engineering at Beijing Institute of Technology and majored in orbit dynamics in deep space exploration. To put it more specifically, I focused on orbit determination for spacecraft in the vinicity of asteroid satellites, navigation and control of spacecrafts. My master graduation project is about the Design and Control of Resonant Trajectory in Binary Asteroid System. Sound quite far away from earth, right?
 
 If you ask me: why do I turn my focus on outer space into pension system on earth? What's in common between "figuring out how to send humans live on Mars" and "figuring out how to motivate people save more for their retirements"? 
 
