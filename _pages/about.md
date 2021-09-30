@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Yadi Yang and I am currently doing my PhD in Department of Business Economics at Erasmus University Rotterdam in the Netherlands. 
+Hi, I am Yadi Yang and I am currently doing my PhD in the Department of Business Economics at Erasmus University Rotterdam in the Netherlands. 
 
-Before my PhD starts, I studied aerospace engineering at Beijing Institute of Technology and majored in orbit dynamics in deep space exploration. To put it more specifically, I focused on orbit determination for spacecraft in the vinicity of asteroid satellites, navigation and control of spacecrafts. My master graduation project is about the Design and Control of Resonant Trajectory in Binary Asteroid System. Sound quite far away from earth, right?
+Before my PhD starts, I obtained my bachelor and master degree in Aerospace Engineering at Beijing Institute of Technology. My previous work focused on orbit design and control in binary asteroid system for spacecrafts in the Deep Space Exploration missions. Sound quite far away from the ground, right?
 
-If you ask me: why do I turn my focus on outer space into pension system on earth? What's in common between "figuring out how to send humans live on Mars" and "figuring out how to motivate people save more for their retirements"? 
+Now I am back to the ground -- my current research is about individual decision-making in the pension field and I try to find tools that can promote and support individual pension investment for retirement. 
 
-The aswer is: Welfare.
+If you ask me: why do I turn my focus from asteroids in outer space to pension system on earth? 
 
-This is why now I am back on earth: my research focuses on  Individual Risk Preference Elicitation and Communication in Pension Field. Since aging is inevitable for everyone and the population aged 65 and over is growing faster than all other age groups globally, how to get more people involved in Pension scheme and how to promote and support individual's investment and saving behavior will be essential for every one in every country.
+Well, I think "figuring out how to motivate people save more for their retirements" is equally important to "exploring the deep space and figuring out how to send humans live on Mars or other planets".  Moreover, since aging is inevitable for everyone, comparing to "try to find the origin (or future) of our solar system and human kind", "try to help individuals make responsible pension investment decisions" is more urgent, isn't it? ;)
+
+
 
