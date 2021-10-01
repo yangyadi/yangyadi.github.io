@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Aerospace Transportation & Control, Beijing Institute of Technology, 2012
+* B.S. in Economics (Dual degree), Beijing Institute of Technology, 2012
+* M.S. in Aerospace Engineering, Beijing Institute of Technology, 2016
+* Ph.D in Business Economics, Erasmus University Rotterdam, Current
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Marketing Trainee
+  * E Fund Management Co., Ltd. 
+  
+* 2018-2019: Project Assistant
+  * Archicity Consulting, Ltd.
+  * Undertaking consulting projects and writing research reports for different public and private client; Communicating with universities, government, companies and NGOs in the U.S.
+  Supervisor: Kevin Zhang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017: Research Assistant
+  * Key Laboratory of Autonomous Navigation & Control
+  * Participating in developing statistical and dynamic model; Conducting extensive data analysis and writing research overviews.
+  * Supervisor: Professor D. Qiao
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MATLAB
+* R
+* Visio
+* STATA
 
 Publications
 ======
@@ -54,6 +56,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+PATENTS
 ======
-* Currently signed in to 43 different slack teams
+* Qiao D, Shang H, Han H, Yang Y. Determination the Attainability Domain of Planar Aerocapture Terminal State, CN201710783537.3, 2017
+* Qiao D, Li X, Du Y, Hu B, Yang Y. Initialization of Lunar Satellite Multi-impulse Formation Flying, CN201710814830.1, 2017
+* Qiao D, Li X, Sun C, Yang Y. Spatial Orbit Families Finding in Binary Asteroid System Based on Grid Search, CN201611242143.9, 2016
+* Qiao D, Li X, Liu Y, Du Y, Yang Y. Calculation of Steady Orbit in Non-Synchronous Binary Asteroid System, CN201611244603.9, 2016
