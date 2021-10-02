@@ -23,8 +23,8 @@ Work experience
   
 * 2018-2019: Project Assistant
   * Archicity Consulting, Ltd.
-  * Undertaking consulting projects and writing research reports for different public and private client; Communicating with universities, government, companies and NGOs in the U.S.
-  Supervisor: Kevin Zhang
+  * Undertaking consulting projects and writing research reports for different public and private client
+  * Supervisor: Kevin Zhang
 
 * 2017: Research Assistant
   * Key Laboratory of Autonomous Navigation & Control
