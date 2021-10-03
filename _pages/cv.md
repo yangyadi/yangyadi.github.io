@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Aerospace Transportation & Control, Beijing Institute of Technology, 2012
-* B.S. in Economics (Dual degree), Beijing Institute of Technology, 2012
-* M.S. in Aerospace Engineering, Beijing Institute of Technology, 2016
-* Ph.D in Business Economics, Erasmus University Rotterdam, Current
+* B.S. in Aerospace Transportation & Control, Beijing Institute of Technology, 2012-2016
+* B.S. in Economics (Dual degree), Beijing Institute of Technology, 2014-2016
+* M.S. in Aerospace Engineering, Beijing Institute of Technology, 2016-2018
+* Ph.D in Business Economics, Erasmus University Rotterdam, 2019-Current
 
 Work experience
 ======
@@ -56,7 +56,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-PATENTS
+Patents
 ======
 * Qiao D, Shang H, Han H, Yang Y. Determination the Attainability Domain of Planar Aerocapture Terminal State, CN201710783537.3, 2017
 * Qiao D, Li X, Du Y, Hu B, Yang Y. Initialization of Lunar Satellite Multi-impulse Formation Flying, CN201710814830.1, 2017
