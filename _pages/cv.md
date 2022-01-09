@@ -35,6 +35,7 @@ Skills
 ======
 * MATLAB
 * R
+* AutoCAD
 * Visio
 * STATA
 
