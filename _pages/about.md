@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Yadi Yang and I am currently doing my PhD in the Department of Business Economics at Erasmus University Rotterdam in the Netherlands. 
+Hi, I am Yadi Yang and I am a Ph.D. candidate from the department of Business Economics at Erasmus University Rotterdam in the Netherlands. 
 
-Before my PhD starts, I obtained my bachelor and master degree in Aerospace Engineering at Beijing Institute of Technology. My previous work focused on orbit design and control for spacecrafts in the Deep Space Exploration missions.
+Before embarking on my doctoral journey, I earned my bachelor's and master's degrees in Aerospace Engineering from Beijing Institute of Technology. My academic journey was defined by a focus on trajectory design and control for spacecraft in the vicinity of binary asteroids, laying the groundwork for my passion for precision and innovation.
 
-Now I move closer to the ground -- my current research is about individual decision-making in the pension field and I try to find efficient tools that can promote and support individual pension investment for retirement. 
-If you ask me: why do I turn my focus from asteroids in outer space to pension system on earth? 
+Now, my research trajectory has shifted closer to Earth, as I delve into the intricate realm of individual decision-making within the pension sector. My current research revolves around modeling individuals' discretionary investment decisions, predicting preference for pay-out schemes based on individual retirement goal, and quantifying individual preference for ESG investment, ensuring financial wellbeing in retirement.
 
-Well, I think "figuring out how to motivate people save more for their retirements" is equally important to "exploring the deep space and figuring out how to send humans live on Mars or other planets".  Moreover, since aging is inevitable for everyone, comparing to "try to find the origin (or future) of our solar system and human kind", "try to help individuals make responsible pension investment decisions" is more urgent, isn't it? =)
+The question naturally arises: why transition from deep space exploration to the complexities of pension systems on Earth? My rationale stems from a deep-seated belief that the imperative to motivate individuals make responsible decisions for retirement parallels the grandeur of exploring outer space, given that aging looms as an inevitable reality for all.
 
+Thus, while my academic journey once navigated the realms of outer space, I now find fulfillment in navigating the intricacies of financial planning for individuals. 
 
-
+"I suppose it's like the ticking crocodile, isn't it? Time is chasing after all of us."
