@@ -12,9 +12,9 @@ Hi, I am Yadi Yang and I am a Ph.D. candidate from the department of Business Ec
 
 Before embarking on my doctoral journey, I earned my bachelor's and master's degrees in Aerospace Engineering from Beijing Institute of Technology. My academic journey was defined by a focus on trajectory design and control for spacecraft in the vicinity of binary asteroids, laying the groundwork for my passion for precision and innovation.
 
-Now, my research trajectory has shifted closer to Earth, as I delve into the intricate realm of individual decision-making within the pension sector. My current research revolves around modeling individuals' discretionary investment decisions, predicting preference for pay-out schemes based on individual retirement goal, and quantifying individual preference for ESG investment, ensuring financial wellbeing in retirement.
+Now, my research trajectory has shifted closer to Earth, as I delve into the field of individual decision-making within the pension sector. My current research revolves around modeling individuals' discretionary investment decisions, predicting preference for pay-out schemes based on individual retirement goal, and quantifying individual preference for ESG investment, ensuring financial wellbeing in retirement.
 
-The question naturally arises: why transition from deep space exploration to the complexities of pension systems on Earth? My rationale stems from a belief that motivating individuals to make responsible decisions for retirement outweigh sending spacecrafts to explore deep space and find the origin of our solar system, given that aging looms as an inevitable reality for all.
+The question naturally arises: why transition from deep space exploration to the pension systems on Earth? My rationale stems from a belief that motivating individuals to make responsible decisions for retirement outweigh sending spacecrafts to explore deep space and find the origin of our solar system, given that aging looms as an inevitable reality for all.
 
 Thus, while my academic journey once navigated the realms of deep space, I now find fulfillment in navigating the intricacies of financial planning for individuals. 
 
