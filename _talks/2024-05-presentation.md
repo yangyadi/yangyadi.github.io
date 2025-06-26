@@ -4,7 +4,7 @@ collection: talks
 type: "Presentation"
 permalink: /talks/2024-05-presentation
 venue: "EMAC Annual Conference 2024"
-date: 2024-29-05
+date: 2024-05-29
 location: "Bucharest, Romania"
 ---
 
